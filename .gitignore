@@ -1,0 +1,20 @@
+# Build and output
+bin/
+obj/
+
+# Environment files and credentials
+.env
+atlas-credentials.env
+*.env
+*.user
+
+# IDE and OS files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.userosv
+Thumbs.db
+
+POSTMAN.md
+appsettings.json
